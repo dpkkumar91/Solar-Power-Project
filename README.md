@@ -68,9 +68,4 @@ The project follows a structured approach to perform ETL and EDA, leveraging Pyt
 
 This project stems from my interest in renewable energy and data analysis. Through this analysis, I aimed to bridge the gap between theoretical knowledge and practical application, demonstrating how data-driven insights can drive improvements in solar energy systems. The findings from this project not only contribute to the understanding of solar power generation but also emphasize the potential of data analytics in advancing renewable energy technologies.
 
-The enrgu
-
-## Future Work
-
-Building on this foundation, future work could involve the development of predictive models to forecast solar power generation based on weather forecasts. Additionally, further analysis could explore the economic implications of the identified patterns and strategies for optimizing operational practices.
 
